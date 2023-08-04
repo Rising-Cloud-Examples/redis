@@ -1,5 +1,5 @@
 # redis
-This guide will walk you through the simple steps needed to build and run Redis on Rising Cloud. You can clone all the files needed for this example from our GitHub repository at: https://github.com/Rising-Cloud-Examples/redis
+This guide will walk you through the simple steps needed to build and run Redis on Rising Cloud.
 
 1. Install the Rising Cloud Command Line Interface (CLI)
 In order to run the Rising Cloud commands in this guide, you will need to install the Rising Cloud Command Line Interface. This program provides you with the utilities to setup your Rising Cloud Task or Rising Cloud Web Service, upload your application to Rising Cloud, setup authentication, and more. If you haven’t already, click here to for instructions to install Rising Cloud CLI.
